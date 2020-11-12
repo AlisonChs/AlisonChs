@@ -17,4 +17,4 @@ Atualmente estou:
 💭 Contribuindo com pequenos projetos em toda a área!
 
 
-https://www.linkedin.com/in/alisonchs/ | 
+https://www.linkedin.com/in/alisonchs/ 
