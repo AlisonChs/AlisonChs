@@ -14,6 +14,6 @@ Atualmente estou:
 
 🖥️ Trabalhando em algum projeto pessoal para fixar o meu conhecimento.
 
-💭 Contribuo com pequenos projetos em toda a área!
+💭 Contribuindo com pequenos projetos em toda a área!
 
 
