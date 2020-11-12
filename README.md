@@ -1,4 +1,5 @@
 Olá! 🖖🏻
+
 Sempre gostei de desfrutar da lógica para tudo, e agora pretendo utilizar da programação para isso, apesar de estar ainda no ínicio.
 
 Atualmente estou:
@@ -6,7 +7,6 @@ Atualmente estou:
 
 
 📘 Cursando o ensino médio com curso técnico em DS (Desenvolvimento de Sistemas).
-
 📘 Cursando alguns cursos presenciais e online sobre toda a área de TI e Programação.
 
 🕵️‍ Procurando saber mais sobre programação em meu tempo livre.
