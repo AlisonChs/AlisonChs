@@ -1,6 +1,12 @@
 # :man_technologist: Alison Christian
 
+__________________________
+
+
 ## Hello 👋
+
+____________________
+
 
 My name is Alison Christian, I'm from Brazil (🇧🇷) and I'm 16. I'm studying Systems Analysis and Development, interested in fullstack technology.
 
