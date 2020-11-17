@@ -16,7 +16,7 @@ I'm currently:
 
 💭 Contributing to small projects across the area!
 
-
+_________________________
 
 ### Would you like to find me?
 
