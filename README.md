@@ -7,6 +7,8 @@ My name is Alison Christian, I'm from Brazil (🇧🇷) and I'm 16. I'm studying
 
 I'm currently:
 
+
+
 📘 Attending high school with a technical course in DS (Systems Development).
 
 📘 Attending some classroom and online courses on the entire IT and Programming area.
@@ -19,7 +21,7 @@ I'm currently:
 
 _________________________
 
-## Would you like to find me?
+### Would you like to find me?
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alisonchs)](https://github.com/alisonchs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisonchs)](https://www.linkedin.com/in/alisonchs)
