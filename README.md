@@ -16,6 +16,8 @@ I'm currently:
 
 💭 Contributing to small projects across the area!
 
+
+
 ### Would you like to find me?
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alisonchs)](https://github.com/alisonchs)
