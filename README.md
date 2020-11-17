@@ -18,6 +18,6 @@ Atualmente estou:
 
 
 <center>
-	 <a href="alison.carvalho@etec.sp.gov.br"><img src="https://drive.google.com/file/d/1gS29M9yA1zPHBt_tBdXRM-DFf3w9gRuE/view?usp=sharing" style="width: 30px; height: 30px;" /></a>
-	 <a href="https://www.linkedin.com/in/alisonchs/"><img src="li.png" style="width: 30px; height: 30px;" /></a>
+	 <a href="alison.carvalho@etec.sp.gov.br"><img src="img_readme/ol.png" style="width: 30px; height: 30px;" /></a>
+	 <a href="https://www.linkedin.com/in/alisonchs/"><img src="img_readme/ol.png" style="width: 30px; height: 30px;" /></a>
 </center>
