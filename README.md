@@ -1,6 +1,6 @@
 # :man_technologist: Alison Christian
 
-# Hello 👋
+## Hello 👋
 
 
 My name is Alison Christian, I'm from Brazil (🇧🇷) and I'm 16. I'm studying Systems Analysis and Development, interested in fullstack technology.
@@ -21,7 +21,7 @@ I'm currently:
 
 _________________________
 
-# Technologies:
+## Technologies:
 
 ### FrontEnd:
 
@@ -31,9 +31,9 @@ _________________________
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-<br>
+
 ### BackEnd, server-side and systems:
-<br>
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -42,9 +42,9 @@ _________________________
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://simpleicons.org/icons/postman.svg"></code>
 
-<br>
+
 ### Design and others:
-<br>
+
 
 <code><img height="20" src="https://user-images.githubusercontent.com/62998742/111851689-fe9b8400-88f2-11eb-9313-68723403bf45.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
