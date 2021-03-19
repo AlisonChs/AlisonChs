@@ -1,8 +1,6 @@
 # :man_technologist: Alison Christian
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlisonChs&color=green)
-
-## Hello 👋
+# Hello 👋
 
 
 My name is Alison Christian, I'm from Brazil (🇧🇷) and I'm 16. I'm studying Systems Analysis and Development, interested in fullstack technology.
@@ -23,9 +21,9 @@ I'm currently:
 
 _________________________
 
-### Technologies:
+# Technologies:
 
-# FrontEnd:
+### FrontEnd:
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -34,7 +32,7 @@ _________________________
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 <br>
-# BackEnd, server-side and systems:
+### BackEnd, server-side and systems:
 <br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -45,7 +43,7 @@ _________________________
 <code><img height="20" src="https://simpleicons.org/icons/postman.svg"></code>
 
 <br>
-# Design and others:
+### Design and others:
 <br>
 
 <code><img height="20" src="https://user-images.githubusercontent.com/62998742/111851689-fe9b8400-88f2-11eb-9313-68723403bf45.png"></code>
@@ -55,7 +53,7 @@ _________________________
 
 _________________________
 
-### Would you like to find me?
+# Would you like to find me?
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alisonchs)](https://github.com/alisonchs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisonchs)](https://www.linkedin.com/in/alisonchs)
