@@ -1,12 +1,10 @@
 # :man_technologist: Alison Christian
-<h1 align="center">Hi there 👋, I'm Alison Christian</h1>
+<h1 align="center">Hi there 👋, I'm <b>Alison Christian</b> # 👨‍💻</h1>
 <h3 align="center">A FullStack Developer</h3>
-## Hello 👋
-
 
 My name is Alison Christian, I'm from Brazil (🇧🇷) and I'm 16. I'm studying Systems Analysis and Development, interested in fullstack technology.
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlisonChs&show_icons=true" alt="AlisonChsStats" />
+<center><img src="https://github-readme-stats.vercel.app/api?username=AlisonChs&show_icons=true" alt="AlisonChsStats" /></center
 
 I'm currently:
 
