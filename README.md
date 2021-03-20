@@ -26,13 +26,15 @@ My name is Alison Christian, I'm from Brazil (🇧🇷) and I'm 16. I'm studying
 
 _________________________
 
-## I'm currently:
+## Currently:
 
 
 
 - 📘 Attending high school with a technical course in DS (Systems Development).
 
 - 🌱 Learning Java and web development.
+
+- 💬 Ask me about: tech, anime and a little bit about hardware.
 
 - 🖥️ Working on a personal project to fix my knowledge.
 
