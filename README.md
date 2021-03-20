@@ -1,3 +1,5 @@
+<div align="center">
+  
 <h1 align="center">Hi there 👋, I'm <b>Alison Christian</b> 👨‍💻</h1>
 <h3 align="center">A FullStack Developer</h3>
 <br>
@@ -67,7 +69,6 @@ _________________________
 
 _________________________
 
-<div align="center">
   
   ## Find me
   
