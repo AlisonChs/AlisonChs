@@ -10,7 +10,7 @@ My name is Alison Christian, I'm from Brazil (🇧🇷) and I'm 16. I'm studying
   <img src="https://github-readme-stats.vercel.app/api?username=AlisonChs&count_private=true&show_icons=true&custom_title=My%20Statistics&hide=issues&theme=radical" alt="AlisonChsStats" />
 </p>
 
-<br>
+<br><br>
 
 
 _________________________
@@ -27,8 +27,9 @@ _________________________
 
 - 🖥️ Working on a personal project to fix my knowledge.
 
-
 _________________________
+
+<br><br>
 
 ## Technologies that I am studying:
 
@@ -40,6 +41,7 @@ _________________________
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
+<br>
 
 ### BackEnd, server-side and systems:
 
@@ -52,7 +54,7 @@ _________________________
 <code><img height="30" src="https://simpleicons.org/icons/postman.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+<br>
 
 ### Design and others:
 
@@ -62,6 +64,8 @@ _________________________
 
 
 _________________________
+
+<br><br>
 
 <div align="center">
 
