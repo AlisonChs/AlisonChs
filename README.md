@@ -31,7 +31,7 @@ _________________________
 
 _________________________
 
-<br><br>
+<br>
 
 ## Technologies that I am studying:
 
@@ -70,6 +70,8 @@ _________________________
 <br><br>
 
 <div align="center">
+  
+  <h3 align="center">Find me </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisonchs)](https://www.linkedin.com/in/alisonchs)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/alisonchs)](https://github.com/alisonchs)
