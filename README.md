@@ -7,8 +7,8 @@ My name is Alison Christian, I'm from Brazil (🇧🇷) and I'm 16. I'm studying
 <br>
 
 <p align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=AlisonChs&show_icons=true" alt="AlisonChsStats" />
-</p>
 
 <br>
 
@@ -18,6 +18,7 @@ My name is Alison Christian, I'm from Brazil (🇧🇷) and I'm 16. I'm studying
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:alison.carvalho@etec.sp.gov.br")](mailto:alison.carvalho@etec.sp.gov.br)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55011953544428&text=Olá!)](https://api.whatsapp.com/send?phone=55011953544428&text=Olá!)
 
+</p>
 _________________________
 
 I'm currently:
