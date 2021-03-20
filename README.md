@@ -1,5 +1,6 @@
 # :man_technologist: Alison Christian
-
+<h1 align="center">Hi there 👋, I'm Alison Christian</h1>
+<h3 align="center">A FullStack Developer</h3>
 ## Hello 👋
 
 
