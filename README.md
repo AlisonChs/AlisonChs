@@ -4,7 +4,9 @@
 
 My name is Alison Christian, I'm from Brazil (🇧🇷) and I'm 16. I'm studying Systems Analysis and Development, interested in fullstack technology.
 
-<center><img src="https://github-readme-stats.vercel.app/api?username=AlisonChs&show_icons=true" alt="AlisonChsStats" /></center>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlisonChs&show_icons=true" alt="AlisonChsStats" />
+
+_________________________
 
 I'm currently:
 
