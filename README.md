@@ -30,11 +30,11 @@ _________________________
 
 
 
-📘 Attending high school with a technical course in DS (Systems Development).
+- 📘 Attending high school with a technical course in DS (Systems Development).
 
-🌱 Learning Java and web development.
+- 🌱 Learning Java and web development.
 
-🖥️ Working on a personal project to fix my knowledge.
+- 🖥️ Working on a personal project to fix my knowledge.
 
 
 _________________________
