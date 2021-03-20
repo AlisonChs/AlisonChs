@@ -33,8 +33,6 @@ _________________________
 
 _________________________
 
-<br>
-
 ## Technologies that I am studying:
 
 ### FrontEnd:
