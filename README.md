@@ -18,8 +18,7 @@ My name is Alison Christian, I'm from Brazil (🇧🇷) and I'm 16. I'm studying
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/alisonchs)](https://github.com/alisonchs)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/203714/alison-ch-s)](https://pt.stackoverflow.com/users/203714/alison-ch-s)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:alison.carvalho@etec.sp.gov.br")](mailto:alison.carvalho@etec.sp.gov.br)
-[![WhatsApp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white)]
-(https://api.whatsapp.com/send?phone=55011953544428&text=Olá!)
+[![WhatsApp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55011953544428&text=Olá!)
 
   
  </div>
