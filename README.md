@@ -1,4 +1,4 @@
-<div align="center">
+
   
 <h1 align="center">Hi there 👋, I'm <b>Alison Christian</b> 👨‍💻</h1>
 <h3 align="center">A FullStack Developer</h3>
@@ -73,6 +73,8 @@ _________________________
   ## Find me
   
   <br>
+  
+  <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisonchs)](https://www.linkedin.com/in/alisonchs)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/alisonchs)](https://github.com/alisonchs)
