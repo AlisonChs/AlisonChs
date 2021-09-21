@@ -11,6 +11,8 @@ My name is Alison Christian, I'm from Brazil (🇧🇷) and I'm 16. I'm studying
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=AlisonChs&count_private=true&show_icons=true&custom_title=My%20Statistics&hide=issues&theme=radical" alt="AlisonChsStats" />
   
+  <br />
+  
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisonChs&langs_count=10&layout=compact&theme=material-palenight" />
 </p>
 
