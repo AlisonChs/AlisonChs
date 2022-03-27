@@ -2,7 +2,7 @@
 <h3 align="center">A FullStack Developer</h3>
 <br>
 
-My name is Alison Christian, I'm from Brazil (🇧🇷) and I'm 16. I'm studying Systems Analysis and Development, interested in fullstack technology.
+My name is Alison Christian, I'm from Brazil (🇧🇷) and I'm 17. I'm studying Systems Analysis and Development, interested in fullstack technology.
 
 <br>
 
